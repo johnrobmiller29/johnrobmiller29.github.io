@@ -2,25 +2,28 @@
 //src/components/footer.astro
 import Nav from "../components/Nav.astro";
 import SocialMenu from "../components/SocialMenu.astro";
+import Copyright from "./Copyright.astro";
 import { Icon } from "astro-icon/components";
 const siteName = "Taniti Tourism";
 ---
 
-<footer class="flex flex-col w-full bg-emerald-900 text-white">
+<footer class="flex w-full flex-col bg-emerald-900 text-white">
   <div
-    class="flex justify-between items-center text-center w-full px-4 py-3 gap-4 md:px-6 md:gap-6 lg:px-18 lg:gap-10"
+    class="flex w-full items-center justify-between gap-4 px-4 py-3 text-center md:gap-6 md:p-6 lg:gap-10 lg:px-18"
   >
-    <a href="/" class="flex items-center">
-      <Icon name="tanitiLogo" class="w-auto h-20 object-contain md:h-25 lg:h-50 stroke-white">
+    <a href="/" class="flex flex-1 items-center">
+      <Icon
+        name="tanitiLogo"
+        class="h-20 w-auto stroke-white object-contain md:h-25 lg:h-40"
+      />
+
+      <div>
+        <Nav isHeader={false} />
+      </div>
+
+      <SocialMenu />
     </a>
-
-    <div id="nav-menu" class="lg:block">
-      <Nav 
-        isHeader={false}/>
-    </div>
-
-    <SocialMenu />
   </div>
-
-  <hr class="my-3 border-t border-slate-400 w-full"/>
+  <hr class="w-full border-t border-white" />
+  <Copyright />
 </footer>

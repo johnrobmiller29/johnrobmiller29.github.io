@@ -1,5 +1,5 @@
 ---
-// src/components/NavLinks.ast
+// src/components/NavLinks.astro
 interface Props {
   href: string;
 }
@@ -13,11 +13,13 @@ const isActive = href === pathname || href === pathname.replace(/\/$/, "");
 <a
   href={href}
   class:list={[
-    "block w-full p-3 rounded-md text-left cursor-pointer lg:inline-block lg:w-auto lg:text-center lg:px-2 lg:py-3 motion-safe:transition-all duration-175 ease-in-out hover:shadow-md hover:scale-105",
-    isActive ? "opacity-100 hover:opacity-80" : "opacity-80 hover:opacity-100",
+    "block w-full cursor-pointer rounded-md p-3 text-left duration-175 ease-in-out hover:scale-105 hover:shadow-md motion-safe:transition-all lg:inline-block lg:w-auto lg:px-2 lg:py-3 lg:text-center",
+    isActive
+      ? "font-bold opacity-100 hover:opacity-70"
+      : "opacity-70 hover:opacity-100",
   ]}
 >
-  <span class="no-underline text-lg/6">
+  <span class="text-lg/6 no-underline">
     <slot />
   </span>
 </a>

@@ -1,0 +1,40 @@
+---
+//src/components/Copyright.astro
+const currentYear = new Date().getFullYear();
+const siteName = "Taniti Tourism";
+---
+
+<div class="p-6 text-center">
+  <p class="text-center text-sm tracking-wide text-slate-300">
+    &copy; {currentYear}
+    The Island of Taniti - Nature | Adventure | Paradise
+  </p>
+
+  <div
+    class="flex flex-col items-center justify-center gap-2 p-3 text-[10px] tracking-widest text-slate-300 uppercase md:flex-row md:gap-4"
+  >
+    <span
+      >Photography: <a
+        href="https://www.pexels.com/"
+        rel="noopener noreferrer"
+        class="hover:underline">Pexels</a
+      > & <a
+        href="https://unsplash.com/"
+        rel="noopener noreferrer"
+        class="hover:underline">Unsplash</a
+      ></span
+    >
+    <span class="hidden md:inline">•</span>
+    <span
+      >Icons: <a
+        href="https://fontawesome.com/"
+        rel="noopener noreferrer"
+        class="hover:underline">Font Awesome</a
+      > & <a
+        href="https://www.canva.com/"
+        rel="noopener noreferrer"
+        class="hover:underline">Canva</a
+      ></span
+    >
+  </div>
+</div>
