@@ -1,17 +1,23 @@
 ---
+// src/components/SocialLinks.astro
 interface Props {
-    href: string;
-    iconName: string;
-    label: string;
+  href: string;
+  iconName: string;
+  label: string;
 }
 
 const { href, iconName, label } = Astro.props;
 import { Icon } from "astro-icon/components";
 ---
+
 <a
-    href={href}
-    rel="noopener noreferrer"
-    aria-label={label}
-    class="block w-8 h-8 rounded-full overflow-hidden motion-safe:transition-all duration-150 ease-in-out hover:scale-110">
-    <Icon name={iconName} class="w-full h-full object-contain text-emerald-900 bg-white"/>
+  href={href}
+  rel="noopener noreferrer"
+  aria-label={label}
+  class="block h-8 w-8 overflow-hidden rounded-full duration-150 ease-in-out hover:scale-110 motion-safe:transition-all"
+>
+  <Icon
+    name={iconName}
+    class="h-full w-full bg-white object-contain text-emerald-900"
+  />
 </a>

@@ -4,18 +4,22 @@ import { Icon } from "astro-icon/components";
 import SocialLinks from "./SocialLinks.astro";
 
 const socialLinks = [
-    {href: "#", iconName: "facebook", label: "Facebook"},
-    {href: "#", iconName: "instagram", label: "Instagram"},
-    {href: "#", iconName: "x-twitter", label: "X Twitter"},
-    {href: "#", iconName: "youtube", label: "YouTube"},
-    {href: "#", iconName: "tiktok", label: "TikTok"}
-]
+  { href: "#", iconName: "facebook", label: "Facebook" },
+  { href: "#", iconName: "instagram", label: "Instagram" },
+  { href: "#", iconName: "x-twitter", label: "X Twitter" },
+  { href: "#", iconName: "youtube", label: "YouTube" },
+  { href: "#", iconName: "tiktok", label: "TikTok" },
+];
 ---
-<div class="flex gap-5 justify-center md:gap-7 lg:gap-9">
-    {socialLinks.map((item) =>
-        <SocialLinks 
-            href={item.href} 
-            iconName={item.iconName} 
-            label={item.label} />
-            )}
+
+<div class="flex flex-1 justify-center gap-5 md:justify-end md:gap-7 lg:gap-9">
+  {
+    socialLinks.map((item) => (
+      <SocialLinks
+        href={item.href}
+        iconName={item.iconName}
+        label={item.label}
+      />
+    ))
+  }
 </div>
