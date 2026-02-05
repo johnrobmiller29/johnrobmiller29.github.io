@@ -10,28 +10,28 @@
         {
           "title": "The Heart of Yellow Leaf Bay",
           "description": "A breathtaking aerial view of our overwater sanctuary, where sustainable architecture meets the vibrant turquoise lagoon.",
-          "image": "resort.jpg",
+          "image": "/resort.jpg",
           "alt": "Aerial view of overwater bungalows and a beachfront resort area.",
           "span": "md:col-span-2 md:row-span-2"
         },
         {
           "title": "Shoreline Serenity",
           "description": "Recline in luxury within our hand-draped beachfront cabanas, offering a front-row seat to the gentle Pacific tide.",
-          "image": "resortCabana.jpg",
+          "image": "/resortCabana.jpg",
           "alt": "A white-curtained cabana with two lounge chairs on a sandy beach.",
           "span": ""
         },
         {
           "title": "Canopy Living",
           "description": "Immerse yourself in the rainforest in our open-air bamboo villas, designed to provide panoramic views and total harmony with nature.",
-          "image": "resortVilla.jpg",
+          "image": "/resortVilla.jpg",
           "alt": "A person sitting on a rug inside a bamboo-walled room with hanging woven lanterns.",
           "span": "md:row-span-2"
         },
         {
           "title": "Restorative Waters",
           "description": "Unwind in our stone-carved hydrotherapy baths, featuring restorative volcanic minerals and serene views of island.",
-          "image": "resortSpa.jpg",
+          "image": "/resortSpa.jpg",
           "alt": "A stone soaking tub on a patio with a textured rock wall and a box of white towels.",
           "span": ""
         }
@@ -49,35 +49,35 @@
         {
           "title": "Urban Coastal Architecture",
           "description": "Thoughtfully designed architecture featuring tiered, garden-lined balconies and integrated pool facilities in the center of the city.",
-          "image": "hotel.jpg",
+          "image": "/hotel.jpg",
           "alt": "A multi-story hotel with curved white balconies filled with potted plants overlooking a swimming pool.",
           "span": "md:row-span-2"
         },
         {
           "title": "Sky-Garden Terraces",
           "description": "Lushly planted open-air terraces that offer a vibrant, eco-friendly escape for socializing high above the city streets.",
-          "image": "hotelTerrace.jpg",
+          "image": "/hotelTerrace.jpg",
           "alt": "A rooftop terrace with pink and blue lounge seating surrounded by dense tropical plants and city buildings.",
           "span": "md:col-span-2"
         },
         {
           "title": "Garden Breezeways",
           "description": "Stylish, open-air pedestrian walkways lined with tropical flora, offering a breezy setting for light dining and local coffee.",
-          "image": "hotelHall.jpg",
+          "image": "/hotelHall.jpg",
           "alt": "An outdoor hotel hallway with wicker chairs, blue-patterned cushions, and small palm trees.",
           "span": "md:row-span-2"
         },
         {
           "title": "Sustainable Modern Design",
           "description": "Efficiently designed guest rooms featuring warm ambient lighting and private balconies that emphasize natural, organic textures.",
-          "image": "hotelRoom.jpg",
+          "image": "/hotelRoom.jpg",
           "alt": "A modern hotel bedroom with a large bed, dark patterned comforter, and a balcony overlooking palm trees.",
           "span": ""
         },
         {
           "title": "Garden-View Fitness Hubs",
           "description": "Sun-drenched fitness centers with floor-to-ceiling glass, letting you work out with the island’s lush gardens as your backdrop.",
-          "image": "hotelGym.jpg",
+          "image": "/hotelGym.jpg",
           "alt": "A hotel gym with several treadmills lined up in front of large windows facing tropical greenery.",
           "span": ""
         }
@@ -95,35 +95,35 @@
         {
           "title": "Sustainable Riverside Living",
           "description": "A primary example of Taniti's eco-conscious architecture, these A-frame structures utilize sustainable bamboo and thatched roofing to remain cool while sitting just feet from the island's freshwater streams.",
-          "image": "lodgeOut.jpg",
+          "image": "/lodgeOut.jpg",
           "alt": "A thatched-roof bamboo lodge with a triangular window and an outdoor deck situated next to a flowing river.",
           "span": "md:row-span-2"
         },
         {
           "title": "Immersive Architectural Design",
           "description": "High-design interiors found in many Tanitian lodges, featuring expansive geometric windows that eliminate the barrier between the living space and the surrounding rainforest.",
-          "image": "lodgeIn.jpg",
+          "image": "/lodgeIn.jpg",
           "alt": "A view from inside a bamboo A-frame structure with large triangular windows overlooking a tropical river and forest",
           "span": "md:row-span-2"
         },
         {
           "title": "Classic Forest Chalets",
           "description": "These multi-level cabins are a staple of the island's interior, built from dark, durable timber designed to withstand the tropical climate while providing a secluded 'treehouse' experience.",
-          "image": "cabin.jpg",
+          "image": "/cabin.jpg",
           "alt": "A dark wooden cabin with a small balcony, partially covered by very large monstera leaves.",
           "span": "md:col-span-2"
         },
         {
           "title": "Private Botanical Decks",
           "description": "A common feature of Taniti's regulated lodges, these outdoor living spaces are designed to offer maximum privacy within the dense monstera and fern groves.",
-          "image": "cabinPatio.jpg",
+          "image": "/cabinPatio.jpg",
           "alt": "Two wooden chairs and a table on a dark wood deck in front of a wall of oversized monstera leaves.",
           "span": ""
         },
         {
           "title": "Botanical Architecture",
           "description": "Traditional Tanitian design often incorporates arched entryways and open-air corridors to maximize airflow and provide framed views of the island's lush, misty gardens.",
-          "image": "cabinIn.jpg",
+          "image": "/cabinIn.jpg",
           "alt": "An arched doorway looking into a dark interior framed by lush green ferns and monstera plants.",
           "span": ""
         }
@@ -141,21 +141,21 @@
         {
           "title": "Nature-Integrated Lodging",
           "description": "Guest accommodations in these heritage properties frequently prioritize organic construction, utilizing exposed timber beams and expansive windows to maintain a constant connection with the surrounding tropical flora.",
-          "image": "motelRoom.jpg",
+          "image": "/motelRoom.jpg",
           "alt": "A warm-toned bedroom with a wood-plank ceiling, a large window showing tropical trees, and a woven lampshade.",
           "span": "md:row-span-2"
         },
         {
           "title": "Colonial Island Charm",
           "description": "Many of Taniti’s locally owned inns are housed in historic buildings that feature traditional masonry and architectural details, often situated to provide clear views of the island's rising volcanic interior.",
-          "image": "motel.jpg",
+          "image": "/motel.jpg",
           "alt": "A red colonial-style building with white arched windows and a white sign that says 'HOTEL' in the foreground.",
           "span": "md:col-span-2 md:row-span-2"
         },
         {
           "title": "Urban Heritage Access",
           "description": "Throughout Taniti City, heritage-style lodging is integrated into the colorful, walkable streetscapes, allowing guests to stay within the heart of the community and near local pedestrian markets.",
-          "image": "motelStreet.jpg",
+          "image": "/motelStreet.jpg",
           "alt": "A narrow cobblestone street lined with colorful orange and pink buildings featuring dark wood balconies and hanging plants.",
           "span": "md:row-span-2"
         }
@@ -173,28 +173,28 @@
         {
           "title": "The Social Patio",
           "description": "An inviting open-air terrace illuminated by string lights, providing a shared space for music and social gatherings under the evening sky.",
-          "image": "hostelPatio.jpg",
+          "image": "/hostelPatio.jpg",
           "alt": "Overhead view of a lit outdoor patio at night where people are sitting on rugs and cushions playing guitars.",
           "span": "md:col-span-2"
         },
         {
           "title": "Community Lounge & Library",
           "description": "A warm, wood-paneled common area featuring a community book exchange, coffee bar, and natural timber architectural accents.",
-          "image": "hostelCommon.jpg",
+          "image": "/hostelCommon.jpg",
           "alt": "A bright, wood-paneled common area with a bar, wooden stools, and a small tree trunk integrated into the design.",
           "span": "md:col-span-2"
         },
         {
           "title": "Ocean-View Dormitories",
           "description": "Efficiently designed shared lodging with handcrafted timber bunks and expansive windows that overlook the island's coastline.",
-          "image": "hostelBeds.jpg",
+          "image": "/hostelBeds.jpg",
           "alt": "A dorm room featuring several wooden bunk beds lined up next to a large window overlooking the ocean.",
           "span": "md:col-span-2"
         },
         {
           "title": "Shared Culinary Space",
           "description": "A fully equipped communal kitchen featuring exposed brickwork and plenty of natural light, designed for travelers to prepare their own local meals.",
-          "image": "hostelKitchen.jpg",
+          "image": "/hostelKitchen.jpg",
           "alt": "A rustic shared kitchen with exposed brick walls, hanging baskets, and various cooking utensils on open shelving.",
           "span": "md:col-span-2"
         }
