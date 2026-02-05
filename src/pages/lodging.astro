@@ -1,0 +1,69 @@
+---
+// src/pages/lodging.astro
+import lodging from "../data/lodging.json";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Container from "../components/Container.astro";
+import SectionAnchor from "../components/SectionAnchor.astro";
+import SectionHeader from "../components/SectionHeader.astro";
+import PricingCard from "../components/PricingCard.astro";
+---
+
+<BaseLayout title="Lodging">
+  <Container isCard={false}>
+    <SectionHeader
+      title="A Sanctuary for Every Journey"
+      description="From the secluded canopies of our premier eco-resorts to the historic charm of our regulated heritage inns, Taniti offers a curated collection of accommodations designed to immerse you in the island’s natural splendor. Whether you seek the pinnacle of luxury at the water’s edge or the authentic social energy of our central village, every stay is defined by rigorous government standards and a deep respect for our botanical heritage. Discover a place where architectural simplicity meets the raw beauty of the Pacific, ensuring your time on the island is as restorative as the landscape itself."
+      isMainHook={true}
+    />
+
+    <SectionAnchor
+      image="foliageWide.jpg"
+      alt="A wide-angle photograph of dense tropical foliage featuring sea grape leaves palm fronds against a clear sky."
+    />
+
+    <PricingCard
+      title={lodging.resort[0].title}
+      subtitle={lodging.resort[0].subtitle}
+      description={lodging.resort[0].description}
+      price={lodging.resort[0].price}
+      amenities={lodging.resort[0].amenities}
+      images={lodging.resort[0].images}
+    />
+
+    <PricingCard
+      title={lodging.hotel[0].title}
+      subtitle={lodging.hotel[0].subtitle}
+      description={lodging.hotel[0].description}
+      price={lodging.hotel[0].price}
+      amenities={lodging.hotel[0].amenities}
+      images={lodging.hotel[0].images}
+    />
+
+    <PricingCard
+      title={lodging.cabin[0].title}
+      subtitle={lodging.cabin[0].subtitle}
+      description={lodging.cabin[0].description}
+      price={lodging.cabin[0].price}
+      amenities={lodging.cabin[0].amenities}
+      images={lodging.cabin[0].images}
+    />
+
+    <PricingCard
+      title={lodging.motel[0].title}
+      subtitle={lodging.motel[0].subtitle}
+      description={lodging.motel[0].description}
+      price={lodging.motel[0].price}
+      amenities={lodging.motel[0].amenities}
+      images={lodging.motel[0].images}
+    />
+
+    <PricingCard
+      title={lodging.hostel[0].title}
+      subtitle={lodging.hostel[0].subtitle}
+      description={lodging.hostel[0].description}
+      price={lodging.hostel[0].price}
+      amenities={lodging.hostel[0].amenities}
+      images={lodging.hostel[0].images}
+    />
+  </Container>
+</BaseLayout>
