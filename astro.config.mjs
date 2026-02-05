@@ -9,6 +9,7 @@ import icon from "astro-icon";
 export default defineConfig({
   site: "https://johnrobmiller29.github.io",
   base: "/",
+  trailingSlash: "always",
   vite: {
     plugins: [tailwindcss()],
   },
