@@ -1,0 +1,20 @@
+---
+// src/components/SectionAnchor.astro
+const { image, alt = "Taniti Landscape" } = Astro.props;
+---
+
+<div class="relative my-8 w-full">
+  <div
+    class="group relative mx-auto h-48 w-full max-w-[80%] overflow-hidden rounded-sm border border-white/20 shadow-2xl lg:h-52"
+  >
+    <img
+      src={image}
+      alt={alt}
+      class="h-full w-full object-cover object-center opacity-80 transition-transform duration-700 group-hover:scale-110"
+    />
+    <div
+      class="absolute inset-0 bg-linear-to-t from-emerald-950/20 to-transparent"
+    >
+    </div>
+  </div>
+</div>
