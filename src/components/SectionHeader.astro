@@ -1,5 +1,7 @@
 ---
 // src/components.SectionHeader.astro
+import { Icon } from "astro-icon/components";
+
 const { title, description, isMainHook = false } = Astro.props;
 ---
 
@@ -16,7 +18,10 @@ const { title, description, isMainHook = false } = Astro.props;
   <div class="flex w-full items-center justify-center gap-6 opacity-60">
     <div class="h-0.5 w-lg bg-linear-to-r from-transparent to-emerald-900">
     </div>
-    <div class="h-4 w-4 rotate-45 border-2 border-emerald-900"></div>
+    <Icon
+      name="monstera"
+      class="h-25 w-25 rotate-45 self-center text-emerald-900"
+    />
     <div class="h-0.5 w-lg bg-linear-to-l from-transparent to-emerald-900">
     </div>
   </div>

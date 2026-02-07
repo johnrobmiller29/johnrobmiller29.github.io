@@ -1,6 +1,8 @@
 ---
 // src/components/BentoGrid.astro
-const { items, CardComponent } = Astro.props;
+import Tile from "./Tile.astro";
+
+const { items } = Astro.props;
 
 interface GridItem {
   span?: string;
@@ -9,12 +11,12 @@ interface GridItem {
 ---
 
 <div
-  class="grid aspect-2/1 grid-cols-1 gap-4 px-8 lg:grid-cols-4 lg:grid-rows-2"
+  class="grid aspect-2/1 max-w-[95%] grid-cols-1 gap-4 lg:grid-cols-4 lg:grid-rows-2"
 >
   {
     items.map((item: GridItem) => (
       <div class={item.span || "col-span-1"}>
-        <CardComponent {...item} />
+        <Tile {...item} />
       </div>
     ))
   }

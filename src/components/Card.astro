@@ -1,0 +1,63 @@
+---
+// src/components/Card.astro
+import BentoGrid from "./BentoGrid.astro";
+import CardFeatures from "./CardFeatures.astro";
+import Container from "./Container.astro";
+import SectionHeader from "./SectionHeader.astro";
+
+interface TileData {
+  title: string;
+  description: string;
+  image: string;
+  span?: string;
+}
+
+interface SectionData {
+  title: string;
+  subtitle: string;
+  category: string;
+  description: string;
+  price: string;
+  features: string;
+  images: TileData[];
+}
+
+interface Props {
+  sectionData: SectionData;
+  categoryLabel: string;
+  featureLabel: string;
+  isCard: boolean;
+}
+
+const { sectionData, categoryLabel, featureLabel, isCard } = Astro.props;
+---
+
+<Container isCard={isCard}>
+  <div
+    class="flex flex-col items-center gap-8 border-b border-emerald-900/10 last:border-0"
+  >
+    <div class="flex flex-col items-center text-center">
+      <h2
+        class="text-5xl font-bold tracking-tighter text-emerald-900 drop-shadow-sm lg:text-7xl"
+      >
+        {sectionData.title}
+      </h2>
+    </div>
+
+    <BentoGrid items={sectionData.images} />
+
+    <SectionHeader
+      title={sectionData.subtitle}
+      description={sectionData.description}
+      isMainHook={false}
+    />
+
+    <CardFeatures
+      category={sectionData.category}
+      categoryLabel={categoryLabel}
+      features={sectionData.features}
+      featureLabel={featureLabel}
+      price={sectionData.price}
+    />
+  </div>
+</Container>
