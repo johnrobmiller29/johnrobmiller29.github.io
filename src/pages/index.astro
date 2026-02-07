@@ -2,74 +2,69 @@
 // src/pages/index.astro
 import activities from "../data/activities.json";
 import BaseLayout from "../layouts/BaseLayout.astro";
+import Card from "../components/Card.astro";
 import Container from "../components/Container.astro";
+import SectionAnchor from "../components/SectionAnchor.astro";
 import SectionHeader from "../components/SectionHeader.astro";
-import BentoGrid from "../components/BentoGrid.astro";
-import ActivityCard from "../components/ActivityCard.astro";
+
+const categoryLabel = "Discovery Mode";
+const featureLabel = "Experience Highlights";
 ---
 
 <BaseLayout title="Home">
   <Container>
-    <img
-      src="hero.jpg"
-      alt="Bird's eye view of a small resort with overwater bungalows on turquoise water and lush rainforest"
-      class="w-max-full block h-full w-full rounded-sm object-cover object-center"
-    />
+    <Container>
+      <img
+        src="hero.jpg"
+        alt="Bird's eye view of a small resort with overwater bungalows on turquoise water and lush rainforest"
+        class="block h-full w-full rounded-sm object-cover object-center"
+      />
+    </Container>
 
     <SectionHeader
       title="Welcome to the Island of Taniti"
       description="Taniti is more than an island; it’s a Pacific secret waiting to be discovered. Across less than 500 square miles, you’ll find a world of contrasts: from the rhythmic pulse of white sandy beaches to the emerald silence of lush rainforests. Whether you’re standing in the shadow of a majestic, active volcano or exploring the native architecture of Taniti City, every moment here is an invitation to slow down and breathe in the tropical air. Welcome to your own private paradise."
       isMainHook={true}
     />
-  </Container>
 
-  <Container>
-    <SectionHeader
-      title="The Island’s Edge"
-      description="A journey through Taniti’s diverse ecological zones, from dormant volcanic summits to the quiet depths of the rainforest."
-      isMainHook={false}
+    <SectionAnchor
+      image="/foliageWide.jpg"
+      alt="A wide-angle photograph of dense tropical foliage featuring sea grape leaves palm fronds against a clear sky."
     />
 
-    <BentoGrid items={activities.nature} CardComponent={ActivityCard} />
-  </Container>
-
-  <Container>
-    <SectionHeader
-      title="Active Discovery"
-      description="High-end expeditions designed for the curious traveler looking to navigate the island by air, sea, and canopy."
-      isMainHook={false}
+    <Card
+      sectionData={activities.nature[0]}
+      categoryLabel={categoryLabel}
+      featureLabel={featureLabel}
+      isCard={false}
     />
 
-    <BentoGrid items={activities.adventure} CardComponent={ActivityCard} />
-  </Container>
-
-  <Container>
-    <SectionHeader
-      title="Local Narrative"
-      description="An immersion into the craftsmanship and history that define the Tanitian people and their sustainable architecture."
-      isMainHook={false}
+    <Card
+      sectionData={activities.adventure[0]}
+      categoryLabel={categoryLabel}
+      featureLabel={featureLabel}
+      isCard={false}
     />
 
-    <BentoGrid items={activities.culture} CardComponent={ActivityCard} />
-  </Container>
-
-  <Container>
-    <SectionHeader
-      title="Nocturnal Socials"
-      description="Intimate evening retreats where the island’s natural acoustics and local spirits create a grounded social atmosphere."
-      isMainHook={false}
+    <Card
+      sectionData={activities.culture[0]}
+      categoryLabel={categoryLabel}
+      featureLabel={featureLabel}
+      isCard={false}
     />
 
-    <BentoGrid items={activities.nightlife} CardComponent={ActivityCard} />
-  </Container>
-
-  <Container>
-    <SectionHeader
-      title="The Collective"
-      description="Refined social spaces and curated activities built for multi-generational play and relaxed, unhurried competition."
-      isMainHook={false}
+    <Card
+      sectionData={activities.nightlife[0]}
+      categoryLabel={categoryLabel}
+      featureLabel={featureLabel}
+      isCard={false}
     />
 
-    <BentoGrid items={activities.familyfun} CardComponent={ActivityCard} />
+    <Card
+      sectionData={activities.familyfun[0]}
+      categoryLabel={categoryLabel}
+      featureLabel={featureLabel}
+      isCard={false}
+    />
   </Container>
 </BaseLayout>

@@ -1,5 +1,7 @@
 ---
 // src/components/SocialLinks.astro
+import { Icon } from "astro-icon/components";
+
 interface Props {
   href: string;
   iconName: string;
@@ -7,7 +9,6 @@ interface Props {
 }
 
 const { href, iconName, label } = Astro.props;
-import { Icon } from "astro-icon/components";
 ---
 
 <a

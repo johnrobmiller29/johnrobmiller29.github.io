@@ -2,10 +2,13 @@
 // src/pages/lodging.astro
 import lodging from "../data/lodging.json";
 import BaseLayout from "../layouts/BaseLayout.astro";
+import Card from "../components/Card.astro";
 import Container from "../components/Container.astro";
 import SectionAnchor from "../components/SectionAnchor.astro";
 import SectionHeader from "../components/SectionHeader.astro";
-import PricingCard from "../components/PricingCard.astro";
+
+const categoryLabel = "Discovery Mode";
+const featureLabel = "Certified Facilities & Amenities";
 ---
 
 <BaseLayout title="Lodging">
@@ -21,49 +24,39 @@ import PricingCard from "../components/PricingCard.astro";
       alt="A wide-angle photograph of dense tropical foliage featuring sea grape leaves palm fronds against a clear sky."
     />
 
-    <PricingCard
-      title={lodging.resort[0].title}
-      subtitle={lodging.resort[0].subtitle}
-      description={lodging.resort[0].description}
-      price={lodging.resort[0].price}
-      amenities={lodging.resort[0].amenities}
-      images={lodging.resort[0].images}
+    <Card
+      sectionData={lodging.resort[0]}
+      categoryLabel={categoryLabel}
+      featureLabel={featureLabel}
+      isCard={true}
     />
 
-    <PricingCard
-      title={lodging.hotel[0].title}
-      subtitle={lodging.hotel[0].subtitle}
-      description={lodging.hotel[0].description}
-      price={lodging.hotel[0].price}
-      amenities={lodging.hotel[0].amenities}
-      images={lodging.hotel[0].images}
+    <Card
+      sectionData={lodging.hotel[0]}
+      categoryLabel={categoryLabel}
+      featureLabel={featureLabel}
+      isCard={true}
     />
 
-    <PricingCard
-      title={lodging.cabin[0].title}
-      subtitle={lodging.cabin[0].subtitle}
-      description={lodging.cabin[0].description}
-      price={lodging.cabin[0].price}
-      amenities={lodging.cabin[0].amenities}
-      images={lodging.cabin[0].images}
+    <Card
+      sectionData={lodging.cabin[0]}
+      categoryLabel={categoryLabel}
+      featureLabel={featureLabel}
+      isCard={true}
     />
 
-    <PricingCard
-      title={lodging.motel[0].title}
-      subtitle={lodging.motel[0].subtitle}
-      description={lodging.motel[0].description}
-      price={lodging.motel[0].price}
-      amenities={lodging.motel[0].amenities}
-      images={lodging.motel[0].images}
+    <Card
+      sectionData={lodging.motel[0]}
+      categoryLabel={categoryLabel}
+      featureLabel={featureLabel}
+      isCard={true}
     />
 
-    <PricingCard
-      title={lodging.hostel[0].title}
-      subtitle={lodging.hostel[0].subtitle}
-      description={lodging.hostel[0].description}
-      price={lodging.hostel[0].price}
-      amenities={lodging.hostel[0].amenities}
-      images={lodging.hostel[0].images}
+    <Card
+      sectionData={lodging.hostel[0]}
+      categoryLabel={categoryLabel}
+      featureLabel={featureLabel}
+      isCard={true}
     />
   </Container>
 </BaseLayout>

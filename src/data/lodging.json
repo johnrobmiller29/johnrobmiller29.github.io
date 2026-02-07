@@ -3,9 +3,10 @@
     {
       "title": "The Royal Sands and Canopy Resort",
       "subtitle": "A sanctuary of uncompromising standards.",
+      "category": "",
       "description": "Tucked away in a private cove at Yellow Leaf Bay, the Royal Sands and Canopy Resort is where the edge of the rainforest meets the crystal-clear lagoon. We’ve designed everything around a 'Zero-Footprint' philosophy, meaning your geothermal-cooled bungalow and farm-to-table meals are as kind to the island as they are to you. It’s a place to disappear for a while; whether you’re sinking into a private plunge pool or grabbing one of our complimentary electric bikes to scout the coastline. Just a heads-up: Taniti takes safety as seriously as its scenery, so make sure to keep your helmet on while you’re out exploring on two wheels.",
       "price": "$$$$$",
-      "amenities": "Private Beachfront Cabanas, Geothermal Climate Control, Organic Farm-to-Table Dining, Private Plunge Pools, Full Service Spa, Complementary Electric Bikes",
+      "features": "Private Beachfront Cabanas, Geothermal Climate Control, Organic Farm-to-Table Dining, Private Plunge Pools, Full Service Spa, Complementary Electric Bikes",
       "images": [
         {
           "title": "The Heart of Yellow Leaf Bay",
@@ -42,9 +43,10 @@
     {
       "title": "Taniti City Executive Collection",
       "subtitle": "Professional standards with island soul.",
+      "category": "",
       "description": "The Taniti City Executive Collection is designed for those who need to stay connected without losing their sense of place. Located within the heart of the city's most walkable districts, these modern hubs bridge the gap between high-speed productivity and tropical relaxation. Between meetings, you can wander into local markets or find your focus in our biophilic workspaces. We maintain strict government-regulated standards for safety and hygiene, ensuring your stay is as seamless as it is authentic. After hours, head to the roof to experience where the city skyline meets the rainforest canopy.",
       "price": "$$$-$$$$",
-      "amenities": "High-Speed Wi-Fi, 24-Hour Business Hubs, Modern Fitness Centers, Daily Housekeeping, Concierge Services, Rooftop Lounges",
+      "features": "High-Speed Wi-Fi, 24-Hour Business Hubs, Modern Fitness Centers, Daily Housekeeping, Concierge Services, Rooftop Lounges",
       "images": [
         {
           "title": "Urban Coastal Architecture",
@@ -88,9 +90,10 @@
     {
       "title": "Rainforest Retreats",
       "subtitle": "Natural Luxury. Personalized Tranquility.",
+      "category": "",
       "description": "Experience the quieter side of Taniti in our collection of strictly regulated eco-lodges and cabins. Per local government mandates, all bed and breakfast-style lodging must be purpose-built as sustainable, low-impact botanical retreats. These regulations ensure that every guest residence is harmoniously integrated into the native flora, utilizing eco-certified materials and architectural designs that prioritize the preservation of the island's unique ecosystem.",
       "price": "$$$-$$$$$",
-      "amenities": "Geothermal Cooling, Private Nature Decks, Organic Local Breakfast, Nature Hammocks, In-Cabin Coffee Bars, Gear Storage Racks",
+      "features": "Geothermal Cooling, Private Nature Decks, Organic Local Breakfast, Nature Hammocks, In-Cabin Coffee Bars, Gear Storage Racks",
       "images": [
         {
           "title": "Sustainable Riverside Living",
@@ -134,9 +137,10 @@
     {
       "title": "Taniti Heritage Inns & Motels",
       "subtitle": "Historic architecture meets eco-certified comfort.",
+      "category": "",
       "description": "Discover the true heart of Taniti in our collection of family-owned hotels and roadside moteliers. These properties offer a charming, community-focused alternative to larger resorts, providing clean and comfortable accommodations at an affordable price point. Ranging from historic colonial-style buildings to modern city-center rooms, every stay is strictly regulated and regularly inspected by the government to ensure your peace of mind while you explore the island.",
       "price": "$$-$$$",
-      "amenities": "Free Wi-Fi, Island-Grown Coffee, Daily Housekeeping, Convenient City Access, Authentic Island Decor, On-site Parking",
+      "features": "Free Wi-Fi, Island-Grown Coffee, Daily Housekeeping, Convenient City Access, Authentic Island Decor, On-site Parking",
       "images": [
         {
           "title": "Nature-Integrated Lodging",
@@ -166,9 +170,10 @@
     {
       "title": "Taniti Island Basecamp",
       "subtitle": "Quality communal living in the heart of the community.",
+      "category": "",
       "description": "Located in the heart of Taniti's social scene, these shared suites serve as the primary hub for independent travelers looking for a reliable home base. We balance essential comforts with a lively, communal energy while maintaining strict local government standards for safety and cleanliness. It is a practical, community-focused where it's easy to swap trail tips in the lounge or meet up with local guides before a day of exploring, all while being right in the center of the island's most walkable district.",
       "price": "$",
-      "amenities": "Bunk-Style Lodging, Shared Community Kitchen, Secure Gear Lockers, Mutual Patio Firepit, Laundry Facilities, Communal Library & Exchange",
+      "features": "Bunk-Style Lodging, Shared Community Kitchen, Secure Gear Lockers, Mutual Patio Firepit, Laundry Facilities, Communal Library & Exchange",
       "images": [
         {
           "title": "The Social Patio",
