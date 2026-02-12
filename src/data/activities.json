@@ -5,37 +5,42 @@
       "subtitle": "Elevated Immersions in the Tanitian Wild",
       "category": "Self-Guided Excursion",
       "price": "$-$$",
-      "description": "A journey through Taniti’s diverse ecological zones, from dormant volcanic summits to the quiet depths of the rainforest. These experiences are designed for autonomous discovery, allowing you to move at your own pace through the island's tectonic origins. While independent exploration is encouraged, daily scheduled tours led by our expert naturalists are available for those seeking a deeper, guided perspective. The landscape remains supported by a subtle, structured framework of low-impact paths and interpretive markers, ensuring a seamless and high-end experience for every style of wanderer.",
+      "description": "A journey through Taniti’s diverse ecological zones, from dormant volcanic summits to the quiet depths of the rainforest. These experiences are designed for autonomous discovery, allowing you to move at your own pace through the island's tectonic origins. While independent exploration is encouraged, daily scheduled tours led by our expert naturalists are available for those seeking a curated, guided perspective. The landscape remains supported by a subtle, structured framework of low-impact paths and interpretive markers, ensuring a seamless and high-end experience for every style of wanderer.",
       "features": "Secluded Grotto Picnics, Old-Growth Canopy Access, Sunrise Summit Access, Highland Birding Tours, Guided Waterfall Immersions, Exclusive Ecological Corridor Access",
       "images": [
         {
           "title": "Igneous Altitudes",
           "description": "Discover the raw stillness of the island’s dormant volcanic crests. This vertical journey traverses the basaltic plateaus that form Taniti’s ancient foundation, revealing a rare, high-altitude look at its tectonic history.",
-          "image": "volcano.jpg",
+          "image": "/volcano.jpg",
+          "alt": "A conical volcano peak emitting a massive column of smoke and ash that glows gold and orange against a blue sky.",
           "span": "md:row-span-2"
         },
         {
           "title": "Shoreline Sanctuaries",
-          "description": "Retreat into secluded stone alcoves where the Pacific tides have carved deep tide pools, towering sea-stacks, and weathered stone arches that define Taniti’s rugged coastal boundary",
-          "image": "rockyBeach.jpg",
+          "description": "Retreat into secluded stone alcoves where the Pacific tides have carved deep crystalline tide pools, towering sea-stacks, and weathered stone arches. Taniti’s rugged coastal boundary serves as a haven for diverse intertidal life.",
+          "image": "/rockyBeach.jpg",
+          "alt": "A silhouette of a figure standing in a dark cave opening, framing a view of golden cliffs, rocky shores, and turquoise water.",
           "span": "md:row-span-1"
         },
         {
           "title": "Highland Vistas",
           "description": "Navigate the thin, panoramic paths that follow the natural curvature of the mist-covered peaks. Here, high-altitude flora clings to the island’s vertical limits to provide a serene vantage point far above the clouds.",
-          "image": "mountain.jpg",
+          "image": "/mountain.jpg",
+          "alt": "Jagged, emerald-green mountain ridges rising dramatically above rolling grassy hills and dense tropical vegetation under a cloudy sky.",
           "span": "md:row-span-1"
         },
         {
           "title": "Cerulean Sands",
-          "description": "Serene stretches of coastal sand in the still, protected waters of the island’s most secluded bays. Ideal for the sun-seeker who values space as the ultimate luxury.",
-          "image": "sandyBeach.jpg",
+          "description": "Serene stretches of coastal sand in the still, protected waters of the island’s most secluded bays. Curated to the sun-seeker who values isolation as the ultimate luxury.",
+          "image": "/sandyBeach.jpg",
+          "alt": "A high-angle view of a turquoise bay bordered by a white sand beach and a lush, green forested hillside, with a small boat anchored in the shallows.",
           "span": "md:col-span-2 md:row-span-1 md:col-start-2 md:row-start-2"
         },
         {
           "title": "Emerald Conservatories",
           "description": "A vertical exploration of the hanging gardens and rare flora thriving beneath the forest roof. Sunlight filters through this dense, green cathedral that forms the heart of Taniti’s humid interior.",
-          "image": "rainforest.jpg",
+          "image": "/rainforest.jpg",
+          "alt": "Three hikers navigating a narrow, leaf-strewn trail through a dense rainforest surrounded by tall, moss-covered tree trunks.",
           "span": "md:row-span-2 md:col-start-4 md:row-start-1"
         }
       ]
@@ -51,27 +56,31 @@
       "features": "Volcanic Crater Landings, Old-Growth Canopy Access, Sunrise Summit Access, Highland Birding Tours, Guided Waterfall Immersions, Exclusive Ecological Corridor Access",
       "images": [
         {
-          "title": "Archipelago Altitude",
+          "title": "Vertical Archipelago Survey",
           "description": "This expedition offers a comprehensive visual map of Taniti’s prehistoric origins, tracing the path of ancient eruptions as you soar above the mist-shrouded highlands where the volcanic spine meets the clouds.",
-          "image": "helicopter.jpg",
+          "image": "/helicopter.jpg",
+          "alt": "A blue helicopter flying over turquoise water near a large, dark rock formation shaped like a skull on a green coastline.",
           "span": "md:row-span-2"
         },
         {
-          "title": "Marine Safaris",
+          "title": "Submerged Coral Circuits",
           "description": "Navigate intricate coral labyrinths in this high-clarity immersion designed to provide an intimate encounter with thriving biodiversity in the absolute stillness of the protected inner reef.",
-          "image": "snorkeling.jpg",
+          "image": "/snorkeling.jpg",
+          "alt": "Three snorkelers holding hands underwater, surrounded by air bubbles and sunlight filtering through the deep blue surface.",
           "span": "md:col-span-2"
         },
         {
           "title": "Canopy Velocity",
           "description": "Defy gravity on a high-velocity transit through the architecture of the old-growth rainforest roof. Suspended platforms and precision lines offer a journey through the ancient heart of the jungle.",
-          "image": "zipline.jpg",
+          "image": "/zipline.jpg",
+          "alt": "Two people wearing red helmets and safety harnesses ziplining together through a foggy rainforest canopy.",
           "span": "md:row-span-2"
         },
         {
           "title": "Deep-Water Expeditions",
-          "description": "Trade the coastline for the deep-water meridian, where the silence of the horizon meets the high-octane energy of the reel. Experience a masterclass in sustainable offshore angling, supported by a professional crew and state-of-the-art equipment.",
-          "image": "fishing.jpg",
+          "description": "Trade the coastline for the deep-water meridian, where paradise meets the kinetic energy of the reel. Experience a masterclass in sustainable offshore angling, supported by a professional crew and state-of-the-art equipment.",
+          "image": "/fishing.jpg",
+          "alt": "A white fishing boat named 'Reef Runner' with twin Yamaha engines anchored in turquoise water under a blue sky with scattered clouds.",
           "span": "md:col-span-2"
         }
       ]
@@ -87,7 +96,7 @@
       "features": "Sustainable Design Classes, Curator-Led Art Talks, Heritage Site Tours, Local Photography Exhibits, Indigenous Pigment & Dye Workshops, Native Ritual Performances",
       "images": [
         {
-          "title": "The Island Archives",
+          "title": "The Ancestral Repository",
           "description": "Witness the preserved history of the Pacific’s most resilient seafarers through a curated collection of heritage artifacts. These archives serve as a living bridge between the island's tribal origins and its contemporary cultural landscape.",
           "image": "/museum.jpg",
           "span": "md:col-span-2"
@@ -96,24 +105,28 @@
           "title": "Heritage Exhibits",
           "description": "Navigate a space dedicated to the evolution of island expression, from traditional pigments to modern installations. This gallery highlights the passion that has been passed down through generations of island masters.",
           "image": "/art.jpg",
+          "alt": "A contemporary gallery space featuring a tall, abstract white sculpture made of balloon-like forms, standing on a concrete floor near large framed portraits.",
           "span": "md:col-span-1"
         },
         {
           "title": "Tanitian Vernacular",
           "description": "Discover the functional elegance of indigenous building methods and their seamless integration into the modern, low-impact landscape. These structures serve as a masterclass in high-end, environmentally conscious spaces.",
           "image": "/architecture.jpg",
+          "alt": "Three traditional thatched-roof bungalows perched on stilts over turquoise water, backed by a lush hillside of palm trees.",
           "span": "md:col-span-1"
-        },
-        {
-          "title": "Interior Circuits",
-          "description": "Navigate through Taniti’s diverse ecological zones via a professional transit circuit designed for panoramic viewing. This tour provides a comfortable, grounded perspective on the island's rugged geography.",
-          "image": "/bus.png",
-          "span": "md:row-span-2 md:row-start-1 md:col-start-4"
         },
         {
           "title": "Coastal Wayfinding",
           "description": "Follow the ancestral water-routes used for centuries to connect the archipelago’s secluded bays and volcanic outcroppings. This voyage offers a unique vantage point of the island’s secret grottos and historical landing sites.",
           "image": "/boat.jpg",
+          "alt": "A blue and white multi-deck cruise ship sailing past a massive, sheer cliff face covered in green vegetation and mist.",
+          "span": "md:row-span-2 md:row-start-1 md:col-start-4"
+        },
+        {
+          "title": "The Ethnographic Loop",
+          "description": "Navigate through Taniti’s diverse ecological zones via a narrative transit circuit designed for panoramic viewing. This tour provides a comfortable, grounded perspective on the island's rugged geography.",
+          "image": "/bus.jpg",
+          "alt": "A grand, white ornate building with arched windows and balconies, featuring a person walking across a sunlit stone courtyard.",
           "span": "md:col-span-2"
         }
       ]
@@ -123,27 +136,30 @@
     {
       "title": "The Meridian Pulse",
       "subtitle": "The Archipelago's After-Hours Sanctuary",
-      "category": "Nocturnal Leisure",
+      "category": "Nocturnal Immersion",
       "price": "$$-$$$",
-      "description": "Experience the transition of Taniti as the sun dips below the volcanic horizon, giving way to a sophisticated network of evening retreats. These spaces prioritize intimate social connection, utilizing the island’s natural acoustics to create a grounded, immersive atmosphere. From the harbor’s edge to the heart of the capital, the nightlife focuses on small-batch artisanal spirits and curated soundscapes designed for the discerning traveler. It is a nocturnal landscape where the energy of the day is refined into a calm, high-end social experience.",
+      "description": "Experience the transition of Taniti as the sun dips below the volcanic horizon, giving way to a sophisticated network of evening retreats. These spaces prioritize intimate social connection, utilizing the island’s natural acoustics to create a grounded, immersive atmosphere. From the harbor’s edge to the heart of the capital, the nightlife focuses on micro-distilled artisanal spirits and curated soundscapes designed for the discerning traveler. It is a nocturnal landscape where the energy of the day is refined into a calm, high-end social experience.",
       "features": "Live Music Sessions, Small-Batch Craft Flights, Seasonal Botanical Mixology, Interactive Brewing Workshops, Private Harbor-View Terraces, Artisan Spirit Tastings",
       "images": [
         {
           "title": "The Sound Collective",
           "description": "Immerse yourself in a high-end lounge where tropical light and acoustic precision converge in an open-atmosphere setting. It is the premier destination for those seeking a curated auditory experience paired with world-class mixology.",
           "image": "/club.jpg",
+          "alt": "A crowded outdoor pool party at night where people are dancing in white foam while a performer in an orange and green fringed outfit leads the crowd.",
           "span": "md:col-span-2 md:row-span-2 md:col-start-2"
         },
         {
           "title": "Botanical Drafts",
           "description": "Explore the technical artistry of small-batch brewing infused with Taniti’s seasonal flora and sustainable harvests. This dedicated space celebrates the island's unique botanical profile through a rotating selection of artisanal infusions.",
           "image": "/brewery.jpg",
+          "alt": "A close-up of a person’s hand tilting a clear glass to catch a stream of golden beer being poured from a wooden-handled draft tap.",
           "span": "md:row-span-2"
         },
         {
           "title": "The Harbor Exchange",
           "description": "Engage with the local pulse of the island in a grounded retreat overlooking the Pacific’s nocturnal horizon. These exchanges offer a direct look into Tanitian life, served alongside regional spirits and the cool evening breeze.",
           "image": "/pubs.jpg",
+          "alt": "A sophisticated bar area with a long wooden counter and leather stools, illuminated by large, tiered cylindrical lanterns hanging from a thatched ceiling.",
           "span": "md:row-span-2 md:row-start-1"
         }
       ]
@@ -151,35 +167,39 @@
   ],
   "familyfun": [
     {
-      "title": "The Collective",
+      "title": "Intergenerational Leisure",
       "subtitle": "Shared Discovery from the Coast to the Canopy",
-      "category": "Multigenerational Play",
+      "category": "Kinetic Recreation",
       "price": "$$-$$$",
-      "description": "Discover a curated network of social spaces designed to foster connection across every generation through the lens of relaxed competition. These venues prioritize high-quality, tactile experiences—from cinema under the Pacific stars to lanes crafted from native island hardwoods. By focusing on unhurried play and modern digital pavilions, we strive to provide a grounded sanctuary for 'the Collectives' to engage without the frantic pace of traditional entertainment. It is a sophisticated take on recreation where the environment is as much a part of the game as the players themselves.",
+      "description": "Discover a curated network of social spaces designed to foster connection across every generation through the lens of relaxed competition. These venues prioritize high-quality, tactile experiences—from cinema under the Pacific stars to lanes crafted from native island hardwoods. By focusing on unhurried play and modern digital pavilions, we strive to provide a grounded sanctuary for families to engage without the frantic pace of traditional entertainment. It is a sophisticated take on recreation where the environment is as much a part of the game as the players themselves.",
       "features": "High-Octane Gaming Hubs, Hardwood Lane Tournaments, Starlight Movie Premieres, Communal Social Lounges, Artisanal Refreshment Bars, Coastal Putting Greens",
       "images": [
         {
           "title": "Starlight Cinema",
-          "description": "Experience a small-scale, high-fidelity theater dedicated to screenings of global cinema and contemporary releases under. This intimate venue combines state-of-the-art projection with a relaxing atmosphere for a truly cinematic island evening.",
+          "description": "Experience a small-scale, high-fidelity theater dedicated to screenings of global cinema and contemporary releases. This intimate venue combines state-of-the-art projection with a relaxing atmosphere for a truly cinematic island evening.",
           "image": "/movies.jpg",
+          "alt": "A diverse group of people sitting in dark theater seats, with a couple in the foreground holding large striped buckets of popcorn while watching a screen.",
           "span": "md:col-span-2"
         },
         {
-          "title": "The Circuit Cove",
-          "description": "Engage with a high-octane pavilion where classic analog play meets the cutting edge of digital innovation. This interactive space is designed for kinetic competition, featuring a curated selection of fast-paced challenges that bridge the generational gap through pure, unhurried fun.",
+          "title": "The Digital Pavilion",
+          "description": "Engage with a high-octane pavilion where classic analog engagement meets the cutting edge of digital innovation. This interactive space is designed for competition, featuring a selection of fast-paced challenges that bridge the generational gap through pure, unhurried connection.",
           "image": "/arcade.jpg",
+          "alt": "A vibrant, dimly lit arcade filled with glowing neon pink and blue game cabinets, including a Donkey Derby machine and colorful prize counters.",
           "span": "md:col-span-2"
         },
         {
           "title": "Timber & Tide Lanes",
           "description": "Enjoy a relaxed social atmosphere in a venue featuring custom lanes meticulously crafted from sustainable local hardwoods. This grounded space elevates the competitive spirit through tactile craftsmanship and a serene, tropical aesthetic.",
           "image": "/bowling.jpg",
+          "alt": "A low-angle shot from a red ball return looking down a polished wooden bowling lane as a person in a green hoodie releases a black ball.",
           "span": "md:col-span-2"
         },
         {
           "title": "Shoreline Greens",
-          "description": "[Coming Soon] Navigate a curated 9-hole course engineered to follow the natural basaltic contours of the Tanitian coast. This scenic fairway offers an unhurried, strategic game where the Pacific horizon serves as the ultimate backdrop.",
+          "description": "[In Development] Navigate a curated 9-hole course engineered to follow the natural basaltic contours of the Tanitian coast. This scenic fairway offers an unhurried, strategic game where the Pacific horizon serves as the ultimate backdrop.",
           "image": "/golf.jpg",
+          "alt": "A scenic coastal golf course at sunset featuring rolling green fairways, tropical palm trees, and a paved path leading toward a distant building.",
           "span": "md:col-span-2 grayscale contrast-75 brightness-90"
         }
       ]

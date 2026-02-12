@@ -3,35 +3,35 @@
     {
       "title": "The Royal Sands and Canopy Resort",
       "subtitle": "A sanctuary of uncompromising standards.",
-      "category": "",
-      "description": "Tucked away in a private cove at Yellow Leaf Bay, the Royal Sands and Canopy Resort is where the edge of the rainforest meets the crystal-clear lagoon. We’ve designed everything around a 'Zero-Footprint' philosophy, meaning your geothermal-cooled bungalow and farm-to-table meals are as kind to the island as they are to you. It’s a place to disappear for a while; whether you’re sinking into a private plunge pool or grabbing one of our complimentary electric bikes to scout the coastline. Just a heads-up: Taniti takes safety as seriously as its scenery, so make sure to keep your helmet on while you’re out exploring on two wheels.",
+      "category": "Full-Service Sanctuary",
+      "description": "Tucked away in a private cove at Yellow Leaf Bay, the Royal Sands and Canopy Resort is where the edge of the rainforest meets the crystal-clear lagoon. In alignment with our island-wide culture of care, premium protective gear is seamlessly integrated into every rental, ensuring your exploration is as safe as it is spectacular.",
       "price": "$$$$$",
       "features": "Private Beachfront Cabanas, Geothermal Climate Control, Organic Farm-to-Table Dining, Private Plunge Pools, Full Service Spa, Complementary Electric Bikes",
       "images": [
         {
           "title": "The Heart of Yellow Leaf Bay",
-          "description": "A breathtaking aerial view of our overwater sanctuary, where sustainable architecture meets the vibrant turquoise lagoon.",
+          "description": "A breathtaking aerial view of our overwater sanctuary, where sustainable architecture meets the vibrant turquoise lagoon. This is the ultimate intersection of privacy and the Pacific, offering a view that remains unchanged since the island’s formation.",
           "image": "/resort.jpg",
           "alt": "Aerial view of overwater bungalows and a beachfront resort area.",
           "span": "md:col-span-2 md:row-span-2"
         },
         {
           "title": "Shoreline Serenity",
-          "description": "Recline in luxury within our hand-draped beachfront cabanas, offering a front-row seat to the gentle Pacific tide.",
+          "description": "Recline in luxury within our hand-draped beachfront cabanas, offering a front-row seat to the gentle Pacific tide. These shaded retreats provide a dedicated space for silence, separated from the main resort by a screen of native palms.",
           "image": "/resortCabana.jpg",
           "alt": "A white-curtained cabana with two lounge chairs on a sandy beach.",
           "span": ""
         },
         {
           "title": "Canopy Living",
-          "description": "Immerse yourself in the rainforest in our open-air bamboo villas, designed to provide panoramic views and total harmony with nature.",
+          "description": "Elevated bamboo architecture lifts you directly into the rainforest mid-story, offering a rare perspective of the canopy. These open-air villas dissolve the walls between high-end living and the island’s breathing ecosystem.",
           "image": "/resortVilla.jpg",
           "alt": "A person sitting on a rug inside a bamboo-walled room with hanging woven lanterns.",
           "span": "md:row-span-2"
         },
         {
           "title": "Restorative Waters",
-          "description": "Unwind in our stone-carved hydrotherapy baths, featuring restorative volcanic minerals and serene views of island.",
+          "description": "Unwind in our stone-carved hydrotherapy baths, featuring restorative volcanic minerals and serene views of the island interior. Soaking here offers a quiet counterpoint to the ocean, grounding you in the geothermal warmth of the earth.",
           "image": "/resortSpa.jpg",
           "alt": "A stone soaking tub on a patio with a textured rock wall and a box of white towels.",
           "span": ""
@@ -43,42 +43,42 @@
     {
       "title": "Taniti City Executive Collection",
       "subtitle": "Professional standards with island soul.",
-      "category": "",
-      "description": "The Taniti City Executive Collection is designed for those who need to stay connected without losing their sense of place. Located within the heart of the city's most walkable districts, these modern hubs bridge the gap between high-speed productivity and tropical relaxation. Between meetings, you can wander into local markets or find your focus in our biophilic workspaces. We maintain strict government-regulated standards for safety and hygiene, ensuring your stay is as seamless as it is authentic. After hours, head to the roof to experience where the city skyline meets the rainforest canopy.",
+      "category": "Central Sophistication",
+      "description": "The Taniti City Executive Collection is designed for those who need to stay connected without losing their sense of place. Located within the heart of the city's most walkable districts, these modern hubs bridge the gap between high-speed productivity and tropical relaxation. Between meetings, you can wander into local markets or find your focus in our biophilic workspaces. We maintain uncompromising, independently audited standards for safety and hygiene, ensuring your stay is as seamless as it is authentic. After hours, head to the roof to experience where the city skyline meets the rainforest canopy.",
       "price": "$$$-$$$$",
       "features": "High-Speed Wi-Fi, 24-Hour Business Hubs, Modern Fitness Centers, Daily Housekeeping, Concierge Services, Rooftop Lounges",
       "images": [
         {
           "title": "Urban Coastal Architecture",
-          "description": "Thoughtfully designed architecture featuring tiered, garden-lined balconies and integrated pool facilities in the center of the city.",
+          "description": "Thoughtfully designed architecture featuring tiered, garden-lined balconies and integrated pool facilities spattered around the center of the city. The structures themselves act as vertical gardens, cooling the surrounding streets and providing an oasis for guests.",
           "image": "/hotel.jpg",
           "alt": "A multi-story hotel with curved white balconies filled with potted plants overlooking a swimming pool.",
           "span": "md:row-span-2"
         },
         {
           "title": "Sky-Garden Terraces",
-          "description": "Lushly planted open-air terraces that offer a vibrant, eco-friendly escape for socializing high above the city streets.",
+          "description": "Lushly planted open-air terraces that offer a vibrant, eco-friendly escape for socializing high above the city streets. It is the premier vantage point for watching the urban energy dissolve into the calm of the Pacific sunset.",
           "image": "/hotelTerrace.jpg",
           "alt": "A rooftop terrace with pink and blue lounge seating surrounded by dense tropical plants and city buildings.",
           "span": "md:col-span-2"
         },
         {
           "title": "Garden Breezeways",
-          "description": "Stylish, open-air pedestrian walkways lined with tropical flora, offering a breezy setting for light dining and local coffee.",
+          "description": "Navigate the hotel’s core via open-air arteries that channel the Pacific breeze through dense tropical plantings. These transitional spaces turn a simple walk to your room into a curated botanical immersion.",
           "image": "/hotelHall.jpg",
           "alt": "An outdoor hotel hallway with wicker chairs, blue-patterned cushions, and small palm trees.",
           "span": "md:row-span-2"
         },
         {
           "title": "Sustainable Modern Design",
-          "description": "Efficiently designed guest rooms featuring warm ambient lighting and private balconies that emphasize natural, organic textures.",
+          "description": "Efficiently designed guest rooms featuring warm ambient lighting and private balconies. Every element, from the hardwood flooring to the woven linens, is chosen to maintain a connection to the island’s botanical heritage.",
           "image": "/hotelRoom.jpg",
           "alt": "A modern hotel bedroom with a large bed, dark patterned comforter, and a balcony overlooking palm trees.",
           "span": ""
         },
         {
           "title": "Garden-View Fitness Hubs",
-          "description": "Sun-drenched fitness centers with floor-to-ceiling glass, letting you work out with the island’s lush gardens as your backdrop.",
+          "description": "Sun-drenched fitness centers with floor-to-ceiling glass, letting you work out with the island’s lush gardens as your backdrop. State-of-the-art equipment meets biophilic design, ensuring your wellness routine remains unbroken",
           "image": "/hotelGym.jpg",
           "alt": "A hotel gym with several treadmills lined up in front of large windows facing tropical greenery.",
           "span": ""
@@ -90,8 +90,8 @@
     {
       "title": "Rainforest Retreats",
       "subtitle": "Natural Luxury. Personalized Tranquility.",
-      "category": "",
-      "description": "Experience the quieter side of Taniti in our collection of strictly regulated eco-lodges and cabins. Per local government mandates, all bed and breakfast-style lodging must be purpose-built as sustainable, low-impact botanical retreats. These regulations ensure that every guest residence is harmoniously integrated into the native flora, utilizing eco-certified materials and architectural designs that prioritize the preservation of the island's unique ecosystem.",
+      "category": "Grounded Privacy",
+      "description": "Experience the quieter side of Taniti in our collection of independently certified eco-lodges and cabins. Reflecting our island ethos, all intimate lodging is purpose-built as sustainable, low-impact botanical retreats. These standards ensure that every guest residence is harmoniously integrated into the native flora, utilizing eco-certified materials and architectural designs that prioritize the preservation of the island's unique ecosystem.",
       "price": "$$$-$$$$$",
       "features": "Geothermal Cooling, Private Nature Decks, Organic Local Breakfast, Nature Hammocks, In-Cabin Coffee Bars, Gear Storage Racks",
       "images": [
@@ -118,14 +118,14 @@
         },
         {
           "title": "Private Botanical Decks",
-          "description": "A common feature of Taniti's regulated lodges, these outdoor living spaces are designed to offer maximum privacy within the dense monstera and fern groves.",
+          "description": "A common feature of Taniti's secluded lodges, these outdoor living spaces are designed to offer maximum privacy within the dense monstera and fern groves. Here, the boundary between indoor luxury and the wild rainforest completely dissolves.",
           "image": "/cabinPatio.jpg",
           "alt": "Two wooden chairs and a table on a dark wood deck in front of a wall of oversized monstera leaves.",
           "span": ""
         },
         {
           "title": "Botanical Architecture",
-          "description": "Traditional Tanitian design often incorporates arched entryways and open-air corridors to maximize airflow and provide framed views of the island's lush, misty gardens.",
+          "description": "Traditional Tanitian design often incorporates arched entryways and open-air corridors to provide framed views of the island's lush, misty gardens. These transitional spaces allow the rainforest to become a permanent part of the interior atmosphere.",
           "image": "/cabinIn.jpg",
           "alt": "An arched doorway looking into a dark interior framed by lush green ferns and monstera plants.",
           "span": ""
@@ -137,8 +137,8 @@
     {
       "title": "Taniti Heritage Inns & Motels",
       "subtitle": "Historic architecture meets eco-certified comfort.",
-      "category": "",
-      "description": "Discover the true heart of Taniti in our collection of family-owned hotels and roadside moteliers. These properties offer a charming, community-focused alternative to larger resorts, providing clean and comfortable accommodations at an affordable price point. Ranging from historic colonial-style buildings to modern city-center rooms, every stay is strictly regulated and regularly inspected by the government to ensure your peace of mind while you explore the island.",
+      "category": "Accessible Anchors",
+      "description": "Discover the true heart of Taniti in our collection of family-owned hotels and roadside moteliers. These properties offer a charming, community-focused alternative to larger resorts, providing clean and comfortable accommodations at an affordable price point. Ranging from historic colonial-style buildings to modern city-center rooms, every stay is lovingly maintained and officially certified to ensure your peace of mind while you explore the island.",
       "price": "$$-$$$",
       "features": "Free Wi-Fi, Island-Grown Coffee, Daily Housekeeping, Convenient City Access, Authentic Island Decor, On-site Parking",
       "images": [
@@ -170,35 +170,35 @@
     {
       "title": "Taniti Island Basecamp",
       "subtitle": "Quality communal living in the heart of the community.",
-      "category": "",
-      "description": "Located in the heart of Taniti's social scene, these shared suites serve as the primary hub for independent travelers looking for a reliable home base. We balance essential comforts with a lively, communal energy while maintaining strict local government standards for safety and cleanliness. It is a practical, community-focused where it's easy to swap trail tips in the lounge or meet up with local guides before a day of exploring, all while being right in the center of the island's most walkable district.",
+      "category": "Heirloom Hospitality",
+      "description": "Located in the heart of Taniti's social scene, these shared suites serve as the primary hub for independent travelers looking for a reliable home base. We balance essential comforts with a lively, communal energy while maintaining impeccable standards for safety and cleanliness. It is a practical, community-focused hub where it's easy to swap trail tips in the lounge or meet up with local guides before a day of exploring, all while being right in the center of the island's most walkable district.",
       "price": "$",
       "features": "Bunk-Style Lodging, Shared Community Kitchen, Secure Gear Lockers, Mutual Patio Firepit, Laundry Facilities, Communal Library & Exchange",
       "images": [
         {
           "title": "The Social Patio",
-          "description": "An inviting open-air terrace illuminated by string lights, providing a shared space for music and social gatherings under the evening sky.",
+          "description": "A dedicated open-air forum designed for the exchange of travel routes and global perspectives under the Pacific stars. The atmosphere balances communal energy with the relaxed, unhurried rhythm of a true island basecamp.",
           "image": "/hostelPatio.jpg",
           "alt": "Overhead view of a lit outdoor patio at night where people are sitting on rugs and cushions playing guitars.",
           "span": "md:col-span-2"
         },
         {
           "title": "Community Lounge & Library",
-          "description": "A warm, wood-paneled common area featuring a community book exchange, coffee bar, and natural timber architectural accents.",
+          "description": "A warm, wood-paneled common area featuring a community book exchange, coffee bar, and natural timber architectural accents. Designed for quiet planning or casual conversation, this space offers a cozy refuge from the tropical heat.",
           "image": "/hostelCommon.jpg",
           "alt": "A bright, wood-paneled common area with a bar, wooden stools, and a small tree trunk integrated into the design.",
           "span": "md:col-span-2"
         },
         {
           "title": "Ocean-View Dormitories",
-          "description": "Efficiently designed shared lodging with handcrafted timber bunks and expansive windows that overlook the island's coastline.",
+          "description": "Efficiently designed shared lodging with handcrafted timber bunks and expansive windows that overlook the island's coastline. Wake up to the same million-dollar sunrise as the resorts, framed perfectly by sustainable local craftsmanship.",
           "image": "/hostelBeds.jpg",
           "alt": "A dorm room featuring several wooden bunk beds lined up next to a large window overlooking the ocean.",
           "span": "md:col-span-2"
         },
         {
           "title": "Shared Culinary Space",
-          "description": "A fully equipped communal kitchen featuring exposed brickwork and plenty of natural light, designed for travelers to prepare their own local meals.",
+          "description": "A fully equipped communal kitchen featuring exposed brickwork and plenty of natural light, designed for travelers to prepare their own local meals. Stocked with fresh produce from the nearby market, it invites you to experiment with Tanitian flavors.",
           "image": "/hostelKitchen.jpg",
           "alt": "A rustic shared kitchen with exposed brick walls, hanging baskets, and various cooking utensils on open shelving.",
           "span": "md:col-span-2"
