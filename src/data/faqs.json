@@ -1,0 +1,32 @@
+{
+  "faqs": [
+    {
+      "question": "Electrical Infrastructure",
+      "answer": "The island operates on a 120-volt electrical standard, identical to the infrastructure utilized in the United States."
+    },
+    {
+      "question": "Currency and Transaction Systems",
+      "answer": "Taniti uses the U.S. dollar as its primary currency, but many businesses will also accept euros and yen. The island's financial framework supports major credit cards, and several dedicated local banks are available to facilitate currency exchange."
+    },
+    {
+      "question": "Medical Infrastructure",
+      "answer": "The island’s healthcare system consists of one primary hospital and several supporting clinics. To ensure clear communication and care, the main hospital is staffed by many multilingual employees."
+    },
+    {
+      "question": "Security Protocols",
+      "answer": "Violent crime is very rare on Taniti. However, as tourism increases, there are more reports of pickpocketing and petty crimes, requiring standard vigilance regarding personal assets while navigating public spaces."
+    },
+    {
+      "question": "Linguistic Demographics",
+      "answer": "English is spoken fluently by many younger Tanitians. Very little English is spoken in rural areas, as older residents maintain the island's native language."
+    },
+    {
+      "question": "Libation and Evening Regulations",
+      "answer": "To maintain the island's nocturnal quietude, alcohol is not allowed to be served or sold between midnight and 9:00 a.m.. The drinking age on Taniti is 18, and it is not strictly enforced."
+    },
+    {
+      "question": "Cultural Observances and Scheduling",
+      "answer": "Taniti enjoys a large number of national holidays. During these periods, many tourist attractions and restaurants will be closed, so visitors should plan their itineraries accordingly."
+    }
+  ]
+}
