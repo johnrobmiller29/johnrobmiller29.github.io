@@ -1,0 +1,30 @@
+---
+// src/pages/index.astro
+import faqData from "../data/faqs.json";
+import Accordion from "../components/Accordion.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Container from "../components/Container.astro";
+import SectionAnchor from "../components/SectionAnchor.astro";
+import SectionHeader from "../components/SectionHeader.astro";
+---
+
+<BaseLayout title="FAQs">
+  <Container isCard={true}>
+    <SectionHeader
+      title="Visitor Knowledge Base"
+      description="A structured overview of Taniti's operational parameters, providing clear answers to common inquiries regarding commerce, safety, and cultural rhythms."
+      isMainHook={true}
+    />
+
+    <SectionAnchor
+      image="/foliageWide.jpg"
+      alt="A wide-angle photograph of dense tropical foliage featuring sea grape leaves palm fronds against a clear sky."
+    />
+
+    {
+      faqData.faqs.map((faq) => (
+        <Accordion question={faq.question} answer={faq.answer} />
+      ))
+    }
+  </Container>
+</BaseLayout>
