@@ -1,0 +1,55 @@
+---
+// src/pages/dining.astro
+import dining from "../data/dining.json";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Card from "../components/Card.astro";
+import Container from "../components/Container.astro";
+import SectionAnchor from "../components/SectionAnchor.astro";
+import SectionHeader from "../components/SectionHeader.astro";
+
+const categoryLabel = "Gastronomic Mode";
+const featureLabel = "Culinary Specifications";
+---
+
+<BaseLayout title="Food">
+  <Container isCard={false}>
+    <SectionHeader
+      title="The Archipelago's Culinary Networks"
+      description="Taniti’s dining infrastructure is a coordinated network of five specialized collectives, intercontinental kitchens, and 24-hour provisioning hubs. This system integrates ancestral volcanic pit-oven methods with precision-driven modern techniques to prepare native root starches and sustainable deep-water harvests. All culinary venues operate under documented regenerative harvest standards and zero-waste protocols to support the long-term preservation of local marine biodiversity. From the high-velocity service of our urban noodle houses to the unhurried hearths of our coastal cookeries, the framework provides a reliable culinary anchor for all explorers. The result is a disciplined food scene that reflects the island’s tectonic origins through technical skill and ingredient transparency."
+      isMainHook={true}
+    />
+
+    <SectionAnchor
+      image="/foliageWide.jpg"
+      alt="A wide-angle photograph of dense tropical foliage featuring sea grape leaves palm fronds against a clear sky."
+    />
+
+    <Card
+      sectionData={dining.localCuisine[0]}
+      categoryLabel={categoryLabel}
+      featureLabel={featureLabel}
+      isCard={true}
+    />
+
+    <Card
+      sectionData={dining.americanCuisine[0]}
+      categoryLabel={categoryLabel}
+      featureLabel={featureLabel}
+      isCard={true}
+    />
+
+    <Card
+      sectionData={dining.asianFusion[0]}
+      categoryLabel={categoryLabel}
+      featureLabel={featureLabel}
+      isCard={true}
+    />
+
+    <Card
+      sectionData={dining.stores[0]}
+      categoryLabel={categoryLabel}
+      featureLabel={featureLabel}
+      isCard={true}
+    />
+  </Container>
+</BaseLayout>

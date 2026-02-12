@@ -1,0 +1,141 @@
+{
+  "localCuisine": [
+    {
+      "title": "Meridian Catch & Grain Collective",
+      "subtitle": "Five Pillars of Sustainable Pacific Nourishment",
+      "category": "Tastes of Taniti",
+      "price": "$-$$$$",
+      "description": "This collective represents five specialized restaurants that celebrate the raw, tectonic beauty of the island’s native ingredients through disciplined preparation. By balancing modern searing methods with the ancient tradition of the volcanic pit-oven, these venues offer a clear, logical representation of Tanitian culture. All venues adhere to regenerative harvest standards, ensuring that every meal supports the long-term preservation of our pristine coastal zones.",
+      "features": "Volcanic Pit Oven Specialties, 18+ Craft Beverage Access, 100% Sustainable Sourcing, Native Root Starch Varieties, Precision-Cut Deepwater Catch, Zero-Waste Culinary Protocols",
+      "images": [
+        {
+          "title": "Citrus & Coral",
+          "description": "This high-end establishment specializes in citrus-cured whitefish and artisanal seafood assemblages designed for the sophisticated traveler. Every plate is a precision-driven showcase of the island's marine biodiversity and seasonal floral garnishes.",
+          "image": "/foodHighEnd.jpg",
+          "alt": "A white bowl containing shrimp and whitefish ceviche garnished with purple flowers and red peppers.",
+          "span": "md:row-span-2"
+        },
+        {
+          "title": "Bluefin Bowls",
+          "description": "This urban spot provides low-friction, precision-cut sashimi bowls served over structured bases of seasoned local rice. It is designed for travelers who require balanced, high-protein nourishment during active exploration.",
+          "image": "/foodCasual.jpg",
+          "alt": "Three poke bowls containing rice, raw fish, tofu, and colorful vegetables on a light blue surface.",
+          "span": ""
+        },
+        {
+          "title": "Coastal Home Cookery",
+          "description": "This family-run eatery focuses on the unhurried comfort of pan-fried reef fish and simmered coconut-based stews. It represents the grounded, domestic lifestyle of Taniti through multi-generational heritage recipes.",
+          "image": "/foodSimple.jpg",
+          "alt": "A whole fried fish served on a bed of white rice with a yellow vegetable curry in a metal bowl.",
+          "span": ""
+        },
+        {
+          "title": "Hearth & Bundle Thermal Kitchen",
+          "description": "Artisans here focus on the unhurried preparation of root starches and marinated meats within stone-lined earth-ovens. This method utilizes the island's natural volcanic pulse to create a communal, nutrient-dense feast.",
+          "image": "/foodTraditional.jpg",
+          "alt": "Dozens of green leaf bundles and halved coconuts cooking over dark volcanic rocks.",
+          "span": "md:col-span-2"
+        },
+        {
+          "title": "Black Sand Canteen",
+          "description": "Chefs here focus on the smoky contrast between rugged charred exteriors and the pristine, unhurried interiors of deep-sea harvests. The establishment uses the island's physical foundation as both a cooking tool and a sophisticated serving vessel.",
+          "image": "/foodGrill.jpg",
+          "alt": "Seared octopus tentacles curled on a dark stone plate with a drizzle of green oil and herbs.",
+          "span": "md:row-span-2 md:row-start-1 md:col-start-4"
+        }
+      ]
+    }
+  ],
+  "americanCuisine": [
+    {
+      "title": "The Mainland Hearth Kitchens",
+      "subtitle": "Familiar Cuisine in a Tropical Landscape",
+      "category": "Continental Comforts",
+      "price": "$$-$$$$",
+      "description": "These three establishments represent the logic of the American kitchen adapted for the Tanitian environment. Focused on precision-grilled steaks and hearty, morning-oriented fare, these venues offer a familiar culinary anchor for active explorers. The menu leverages local ingredients to enhance classic comfort profiles, creating a unique 'down-home' island atmosphere.",
+      "features": "100% Sustainable Grass-Fed Beef, All-Day Classic Breakfast Service, Imported American Craft Spirits, Gourmet Wagyu Slider Flights, Late-Night Kitchen Service, Deep-Fryer Basket Pub Fare",
+      "images": [
+        {
+          "title": "Trade Winds Burgers & Brews",
+          "description": "This establishment prioritizes classic time-honored comfort foods to fuel guests after a long day of hiking or exploration. The menu offers a simple, effective selection of burgers and sandwiches that provide a taste of home on the island.",
+          "image": "/americanPub.jpg",
+          "alt": "A metal fryer basket filled with French fries and three small beef sliders topped with sesame seeds.",
+          "span": "md:row-span-2"
+        },
+        {
+          "title": "The Butcher’s Block",
+          "description": "Chefs at this venue focus on heavy cast-iron sears and simple seasoning to highlight the quality of their imported cuts. The restaurant provides a familiar mainland dining experience with an emphasis on efficient service and high-quality sides.",
+          "image": "/americanSteakhouse.jpg",
+          "alt": "A sliced steak topped with herb chimichurri served on a dark stone platter with a side of baked potato and dipping sauce.",
+          "span": "md:row-span-2 md:col-span-2"
+        },
+        {
+          "title": "Harborview Brunch Club",
+          "description": "This dedicated breakfast spot serves generous tiers of pancakes and traditional egg combos starting at 6 a.m. daily. It offers a bright and welcoming environment for families and early risers to prepare for a day of island activities.",
+          "image": "/americanBreakfast.jpg",
+          "alt": "Overhead view of breakfast items including pancakes, eggs with crispy bacon, a fruit bowl, and a glass of juice with a straw.",
+          "span": "md:row-span-2"
+        }
+      ]
+    }
+  ],
+  "asianFusion": [
+    {
+      "title": "The Pacific Rim Culinary Hub",
+      "subtitle": "Precision Sushi and High-Heat Wok Plates",
+      "category": "Eastern Precision",
+      "price": "$$-$$$$",
+      "description": "This collective represents the most technically precise kitchens on the island, focusing on the raw energy and mathematical precision of Asian cooking. Travelers can explore a sensory grid that includes the aromatic intensity of the wok and the minimalist aesthetic of the sashimi blade. The resulting culinary narrative is one of discipline and pulse, reflecting the island's own volcanic and maritime foundations.",
+      "features": "Sustainable Deep-Water Catch, Hand-Pulled Noodles, Specialty Tea & Sake Service, Late-Night Dining Service, Authentic Wok-Sear, Chef-Led Sushi Counters",
+      "images": [
+        {
+          "title": "The Gilded Fin",
+          "description": "The Gilded Fin emphasizes the cold-chain integrity of its sustainable marine sourcing to provide a high-fidelity raw dining experience. Guests are invited to participate in a calm, unhurried meal that prioritizes technical craftsmanship and ingredient transparency.",
+          "image": "/fusionSushi.jpg",
+          "alt": "A varied sushi assortment including rolls with sesame seeds and several types of raw fish arranged on a dark plate.",
+          "span": "md:row-span-2 md:col-span-2"
+        },
+        {
+          "title": "Harbor Noodle House",
+          "description": "At the Harbor Noodle House, chefs prioritize kinetic service and technical skill to deliver authentic Pacific-Rim street food to the city’s central hub. Guests can observe the high-heat cooking process while enjoying a communal atmosphere near the harbor.",
+          "image": "/fusionWok.jpg",
+          "alt": "A close-up shot of noodles being lifted from a steaming wok with a large metal ladle over an open flame.",
+          "span": "md:row-span-2 md:col-span-2"
+        }
+      ]
+    }
+  ],
+  "stores": [
+    {
+      "title": "Tanitian Island Provisions and Sundries",
+      "subtitle": "Reliable Staples and 24-Hour Support",
+      "category": "Curated Provisioning",
+      "price": "$-$$",
+      "description": "Experience the effortless abundance of Taniti through a curated selection of five premier shopping destinations designed for the eco-conscious traveler. Two expansive supermarkets offer a sophisticated array of global staples and organic finds, while two intimate grocery boutiques showcase the vibrant, hand-picked colors of our local volcanic gardens. For seamless support at any hour, our 24-hour convenience gallery provides a polished selection of essentials, ensuring your retreat remains uninterrupted.",
+      "features": "Organic Island Produce, Eco-Friendly Packaging, Premium Global Imports, Walkable Urban Locations, Fresh-Cut Tropical Flora, Artisanal Sun-Care & Goods",
+      "images": [
+        {
+          "title": "Sown & Grown Grocers",
+          "description": "Sown & Grown's two locations function as consistent bridges between the island’s sustainable agriculture and your private seaside kitchen. Visitors can quickly secure hand-picked essentials that emphasize local horticulture and sustainable farming at either point.",
+          "image": "/storesGrocery.jpg",
+          "alt": "A wall of fresh produce with vibrant colors from orange carrots and green lettuce to deep red beets and radishes.",
+          "span": "md:row-span-2"
+        },
+        {
+          "title": "Pacific Crest Markets",
+          "description": "Meticulously organized inventory is the hallmark of the two Pacific Crest supermarkets found within the island's urban zones. Both facilities utilize a warm timber canopy design to maintain a boutique feel despite their massive provisioning capacity.",
+          "image": "/storesSuperMarket.jpg",
+          "alt": "The interior of a brightly lit, large-scale grocery store with a prominent wooden ceiling structure and rows of black-framed refrigerated units.",
+          "span": "md:row-span-2 md:col-span-2"
+        },
+        {
+          "title": "The Harbor Outpost",
+          "description": "Travelers stop here for a curated selection of chilled beverages and quick-access provisions before heading out on early morning excursions. This single station functions as the island's premier fail-safe for immediate, round-the-clock support.",
+          "image": "/storesConvenience.jpg",
+          "alt": "Glass refrigerators stocked with beverages beneath a wooden 'Cold Drinks' sign and shelves of snacks.",
+          "span": "md:row-span-2"
+        }
+      ]
+    }
+  ]
+}
