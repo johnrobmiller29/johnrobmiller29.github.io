@@ -1,0 +1,223 @@
+{
+  "airport": [
+    {
+      "title": "Atmospheric Ingress",
+      "subtitle": "Precision Logistics for the Volcanic Interior",
+      "category": "Intercontinental Ingress",
+      "description": "The airport serves as the first encounter with Taniti’s vernacular architecture, utilizing a biophilic design that prioritizes natural air filtration and internal water cycles. While the facility is currently tailored for the private scale of regional aviation, ongoing expansion efforts are harmoniously integrated into the landscape to preserve the island’s quietude. It is a space defined by high-end logistics and a commitment to ecological harmony, ensuring every arrival is as restorative as the stay itself.",
+      "price": "$$$-$$$$",
+      "features": "Self-Service Kiosks, High-Speed Terminal Wi-Fi, Regional Coffee & Dining, Seamless Customs Arrival, Universal Accessibility, Car Rental Access",
+      "images": [
+        {
+          "title": "Golden Hour Operations",
+          "description": "Reliable evening connectivity for travelers arriving from mainland hubs, curated by a world-class concierge crew. Precision ground-handling ensures you reach your lodging before the first stars appear.",
+          "image": "/airportSunset.jpg",
+          "alt": "A propeller plane on a sunset tarmac with workers standing nearby.",
+          "span": "md:row-span-2"
+        },
+        {
+          "title": "Worldly Connections",
+          "description": "[In Development] Strategic tarmac enhancements are perfecting the safety and efficiency of our regional aviation network through advanced paving and lighting technology. These technical improvements will allow the airport to eventually welcome larger aircraft from global hubs.",
+          "image": "/airportConstruction.jpg",
+          "alt": "Heavy construction machinery working on an airport runway at night with a jet in the background.",
+          "span": "md:col-span-2 grayscale contrast-75 brightness-90"
+        },
+        {
+          "title": "The Gemstone Concourse",
+          "description": "A glass-enclosed paradise designed to bridge the gap between air travel and the island’s raw nature. Massive internal waterfalls and native flora work in tandem to naturally filter the air and create a perfectly tropical threshold for your arrival.",
+          "image": "/airportWaterfall.jpg",
+          "alt": "An indoor tropical forest with a massive waterfall under a geometric skylight.",
+          "span": "md:row-span-2"
+        },
+        {
+          "title": "Pacific Regional Fleet",
+          "description": "Our fleet of dedicated regional aircraft reflects the vibrant aesthetic of the Pacific while exceeding global emission standards. These jets are tailored for the unique needs of island navigation, ensuring a smooth ride over Pacific swells.",
+          "image": "/airportFleet.jpg",
+          "alt": "A row of white jets with palm frond tail art on an airfield.",
+          "span": ""
+        },
+        {
+          "title": "Approaching Eden",
+          "description": "Begin your journey as you descend above the emerald rainforest canopy that blankets the island’s rugged interior valleys. The approach provides a breathtaking view of the deep-water meridian and secluded volcanic outcroppings.",
+          "image": "/airportWindow.jpg",
+          "alt": "View through an airplane window showing a lush tropical island and turquoise bay.",
+          "span": ""
+        }
+      ]
+    }
+  ],
+  "cruiseShip": [
+    {
+      "title": "The Maritime Meridian",
+      "subtitle": "Ecological Voyage at the Island’s Primary Meridian",
+      "category": "Pelagic Anchorage",
+      "description": "Arrive at the edge of the archipelago through a maritime circuit that emphasizes the island’s tectonic origins and seafaring heritage. Our harbor sanctuary is designed for minimal environmental impact, providing a secure sanctuary for weekly cruise vessels to dock against a backdrop of dormant volcanic crests. This seaborne entrance offers a unique vantage point of Taniti’s secret grottos and historical landing sites, transitioning seamlessly into the island's metropolitan pulse.",
+      "price": "$$$$$",
+      "features": "Weekly Scheduled Docking, Shore-Side Shuttle Transit, Valet Luggage Service, Mobile Port Concierge, Private Customs Clearance, Local Transit Passes",
+      "images": [
+        {
+          "title": "Harbor Moorings",
+          "description": "These docks connect global maritime routes to the low-impact paths of the island's interior. As the primary artery for weekly arrivals, the pier provides a serene home base for guests to explore the harbor-side markets and commercial centers.",
+          "image": "/cruiseDock.jpg",
+          "alt": "Detailed view of a white passenger ship moored at a lush island port.",
+          "span": "md:row-span-2"
+        },
+        {
+          "title": "The Golden Anchorage",
+          "description": "Witness Taniti’s volcanic ridges as your vessel anchors in the deep-water harbor at sunset. This arrival marks the transition from the open Pacific to the island's coastal social districts, where the raw geology of the cliffs meets the evening tide.",
+          "image": "/cruiseSunset.jpg",
+          "alt": "A cruise vessel centered between two high mountain peaks at dusk.",
+          "span": "md:col-span-2"
+        },
+        {
+          "title": "Shore-Side Shuttles",
+          "description": "Experience Taniti's seafaring heritage and modern transit through a curated shuttle circuit that serves as a vital connection for seaborne guests. This mode of movement offers a high-clarity look at the island's beauty while maintaining a connection to the environment.",
+          "image": "/cruiseShuttle.jpg",
+          "alt": "Coastal shuttle boat moving through vibrant blue water under a clear sky.",
+          "span": "md:row-span-2"
+        },
+        {
+          "title": "Nocturnal Socials",
+          "description": "The harbor pulse is best experienced from the water’s edge, where the city skyline meets the nocturnal horizon of the Pacific in a sophisticated social landscape. This retreat offers maritime travelers a direct look into the island’s social and commercial heart.",
+          "image": "/cruiseHarbor.jpg",
+          "alt": "A nighttime aerial view of a lit coastal city with many small boats in a turquoise bay.",
+          "span": "md:col-span-2"
+        }
+      ]
+    }
+  ],
+  "groundTransport": [
+    {
+      "title": "Capital & Coastal Connections",
+      "subtitle": "Seamless Interface Between Urban and Wild Zones",
+      "category": "Geothermal Movement",
+      "description": "Bridge the gap between the metropolitan center and the wild periphery via a transit layer designed for ecological silence. The primary municipal loop establishes a consistent, reliable rhythm for coastal access, while a secondary tier of private electric conveyance offers granular control over your itinerary. This dual-layer infrastructure ensures that whether you are chasing the sunrise or returning from the nocturnal circuit, your movement is supported by an unbroken chain of geothermal energy.",
+      "price": "$-$$$",
+      "features": "Zero-Emission Standard, 5am–11pm Municipal Bus Service, On-Demand Mobility, Multilingual Transit Staff, Taniti Universal Transit Pass, Automated Tap-to-Pay Terminals",
+      "images": [
+        {
+          "title": "Coastal Capital Arteries",
+          "description": "Our zero-emission municipal fleet facilitates seamless movement between the capital's central markets and the pristine white sands of Yellow Leaf Bay. Passengers can experience the transition from urban vernacular to coastal sanctuary while riding in climate-controlled cabins powered by the island's volcanic core.",
+          "image": "/publicBus.png",
+          "alt": "A silver bus driving on an empty paved road with a row of palm trees and two high, rocky mountain peaks.",
+          "span": "md:row-span-2"
+        },
+        {
+          "title": "Lithic Energy Link",
+          "description": "Our curated zero-emission fleet draws its pulse directly from the island's active volcanic interior via rapid charging infrastructure. This critical infrastructure ensures that the archipelago's transit legacy remains entirely carbon-neutral and powered by deep-earth energy.",
+          "image": "/publicBusCharger.jpg",
+          "alt": "A white charging station with a black hose and 'High Voltage' warning sign, with a green bus parked next to it.",
+          "span": ""
+        },
+        {
+          "title": "Nocturnal City Circuit",
+          "description": "Experience the unhurried rhythm of Taniti’s nightlife via a transit system that prioritizes passenger peace of mind and carbon neutrality. The 100% geothermal-powered fleet facilitates clean movement through the capital until the daily service window concludes at 11 p.m.",
+          "image": "/publicNightBus.jpg",
+          "alt": "A blue bus at night with illuminated interior lights and a green LED destination sign arriving at a paved bus stop.",
+          "span": ""
+        },
+        {
+          "title": "The Geothermal Dispatch",
+          "description": "Private taxis provide a secure and flexible method for navigating the island’s vertical geography outside of the standard municipal bus schedule. This fleet operates with zero-emission standards to preserve the pristine air quality and lithic beauty of our Pacific sanctuary.",
+          "image": "/publicTaxi.jpg",
+          "alt": "A yellow taxi driving alone on a black asphalt road that curves through a deep green, tropical landscape.",
+          "span": "md:row-span-2"
+        },
+        {
+          "title": "Meridian Private Transit",
+          "description": "The availability of private electric ride-shares across Taniti ensures that private transportation remains a viable and efficient option for visitors. These services allow for personalized movement across the island while supporting our pledge to a zero-emission future.",
+          "image": "/publicRideShare.jpg",
+          "alt": "A person's finger touching a digital map on a smartphone screen inside a car.",
+          "span": "md:col-span-2"
+        }
+      ]
+    }
+  ],
+  "rentals": [
+    {
+      "title": "Sovereign Expeditionary Collective",
+      "subtitle": "Rugged Luxury for the Basaltic Frontier",
+      "category": "Sovereign Expedition",
+      "description": "Curate your own path through Taniti’s diverse biomes with our fleet of high-performance, low-impact rental units. From the coastal ring road to the rugged volcanic interior, our vehicles are engineered to navigate the island's distinct topography without disturbing its delicate ecosystem. Whether you choose a mobile lodging unit for a summit sunrise or a utility vehicle for trail access, your journey remains silent, sustainable, and entirely your own.",
+      "price": "$$$$$",
+      "features": "Local Airport Agency Access, Universal Charging Grid Access, Eco-Certified Green Fleet, Mobile Camping Units, 24-Hour Roadside Concierge, High-Clearance Utility Models",
+      "images": [
+        {
+          "title": "Skyline Expedition Base",
+          "description": "Mobile lodging units allow for a seamless transition between the island’s coastal lowlands and its secluded volcanic summits. These custom zero-emission campers provide the freedom to witness a Tanitian sunrise from the archipelago's highest basaltic reaches.",
+          "image": "/rentalCamper.jpg",
+          "alt": "A white and green camper van parked at a scenic mountain overlook with a view of a coastal city and ocean.",
+          "span": "md:col-span-2"
+        },
+        {
+          "title": "Autonomous Command Center",
+          "description": "Manage your itinerary with a seamless digital platform that integrates real-time environmental data and sustainable energy logistics. The cabin architecture prioritizes clarity and ease of use, reflecting the island's broader commitment to structured, unhurried mobility.",
+          "image": "/rentalInterior.jpg",
+          "alt": "A person’s arm and hand on a steering wheel inside a car with multiple illuminated digital screens on the dashboard.",
+          "span": "md:col-span-2"
+        },
+        {
+          "title": "Rugged Interior Fleet",
+          "description": "Specifically curated for Taniti’s unpaved volcanic trails, these electric utility vehicles provide unparalleled access to the island's ancient basaltic foundations. This high-performance fleet allows for a raw, tactile engagement with the tectonic landscape without compromising our unwavering carbon-neutral pledge.",
+          "image": "/rentalUTV.jpg",
+          "alt": "Four green UTVs lined up on a gravel road against a backdrop of dramatic, jagged volcanic peaks and palm trees.",
+          "span": "md:col-span-2"
+        },
+        {
+          "title": "Geothermal Fleet Hub",
+          "description": "Secure your individualized transit through our specialized agency, which manages a diverse array of premium electric rentals powered by the local geothermal grid. Guests can coordinate their autonomous exploration from this central point, choosing from standard sedans to rugged expedition-ready units.",
+          "image": "/rentalCharging.jpg",
+          "alt": "Several electric cars of various colors parked at vertical charging stations in a modern outdoor parking area.",
+          "span": "md:col-span-2"
+        }
+      ]
+    }
+  ],
+  "active": [
+    {
+      "title": "Biophilic Coastal Promenades",
+      "subtitle": "Human-Powered Movement through Protected Tropical Zones",
+      "category": "Somatic Immersion",
+      "description": "Navigate Taniti’s vibrant urban core and lush rainforest fringes via a dedicated network of pedestrian boardwalks and cycling circuits. Multiple local vendors provide access to both high-fidelity electric bike-share programs and classic coastal cruisers, offering a silent and individualized way to experience the island’s unhurried pace. While the archipelago is exceptionally pedestrian-friendly, all cyclists are supported by a culture of safety, with protective gear seamlessly integrated into every journey across the island's 500-square-mile terrain.",
+      "price": "$-$$",
+      "features": "Public Bicycle Racks, Complimentary Safety Outfitting, Daily Hybrid/Electric Bike Rentals, High Walkability Rating, Rainforest Canopy Walkways, Pedestrian-Only Urban Zones",
+      "images": [
+        {
+          "title": "Coastal Leisure Cruisers",
+          "description": "Human-powered transit remains a popular choice for visitors looking to engage directly with the island's tropical environment and coastal breeze. These classic units offer a simple, sustainable method for navigating the capital's paved waterfront circuits.",
+          "image": "/activeBikes.jpg",
+          "alt": "Row of three teal cruiser bikes with brown baskets and leather seats parked on a stone patio.",
+          "span": "md:row-span-2"
+        },
+        {
+          "title": "Geothermal Urban Docking",
+          "description": "The city's electric bike-share program provides a scalable and sustainable alternative to motorized transit for urban commuters and tourists alike. Accessing these units is a low-friction process designed to support the island's broader carbon-neutral infrastructure.",
+          "image": "/activeBikesElectric.jpg",
+          "alt": "A long row of green electric rental bikes docked at a sidewalk station next to palm trees.",
+          "span": ""
+        },
+        {
+          "title": "Expeditionary Safety Gear",
+          "description": "Embracing the island's safety culture is an essential part of the structured mobility experience for those utilizing our cycling infrastructure. These certified units are meticulously inspected and prepared to provide a reliable layer of protection for every rider.",
+          "image": "/activeHelmets.jpg",
+          "alt": "Several white and black helmets arranged on wooden shelves above a row of boots.",
+          "span": ""
+        },
+        {
+          "title": "Jungle Canopy Crossing",
+          "description": "Maintained stone paths and elevated bridges offer a safe and non-intrusive method for exploring the island’s deep interior rainforest zones. These pedestrian circuits are engineered to provide high-fidelity nature access while preserving the delicate volcanic ecosystem.",
+          "image": "/activeWalkingPath.jpg",
+          "alt": "Lush tropical forest with a dark stone path curving toward a silver metal handrail bridge.",
+          "span": "md:row-span-2"
+        },
+        {
+          "title": "Sun-Drenched Urban Arteries",
+          "description": "Navigating the capital on foot is the most efficient way to witness the intersection of Taniti’s modern infrastructure and its lush coastal atmosphere. These paved circuits connect the primary shopping districts with the waterfront boardwalks in a seamless, unhurried flow.",
+          "image": "/activePublicStreet.jpg",
+          "alt": "Wide angle of a sunny city street with colorful architecture, palm trees, and parked cars under a blue sky.",
+          "span": "md:col-span-2"
+        }
+      ]
+    }
+  ]
+}

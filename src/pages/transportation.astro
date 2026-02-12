@@ -1,0 +1,64 @@
+---
+//src/pages/transportation.astro
+import transportation from "../data/transportation.json";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Card from "../components/Card.astro";
+import Container from "../components/Container.astro";
+import SectionAnchor from "../components/SectionAnchor.astro";
+import SectionHeader from "../components/SectionHeader.astro";
+
+const categoryLabel = "Mobility Mode";
+const featureLabel = "Transit Specifications";
+---
+
+<BaseLayout title="Transportation">
+  <Container isCard={false}>
+    <SectionHeader
+      title="From Touchdown to the Tides"
+      description="Taniti’s transportation network is a coordinated grid of air, sea, and land-based transit systems designed for high-efficiency movement. This infrastructure integrates an electric bus circuit with a 24-hour taxi system and modern vehicle rentals to provide a reliable logistical framework for all explorers. Whether arriving via the international terminal or the deep-water harbor, the system maintains a seamless connection between the urban core and remote coastal hubs. The city’s flat, pedestrian-aligned layout further supports low-impact mobility, ensuring that navigation remains precise and effective from the point of ingress to the island’s interior."
+      isMainHook={true}
+    />
+  </Container>
+
+  <SectionAnchor
+    image="/foliageWide.jpg"
+    alt="A wide-angle photograph of dense tropical foliage featuring sea grape leaves palm fronds against a clear sky."
+  />
+
+  <Card
+    sectionData={transportation.airport[0]}
+    categoryLabel={categoryLabel}
+    featureLabel={featureLabel}
+    isCard={false}
+  />
+
+  <Card
+    sectionData={transportation.cruiseShip[0]}
+    categoryLabel={categoryLabel}
+    featureLabel={featureLabel}
+    isCard={false}
+  />
+
+  <Card
+    sectionData={transportation.groundTransport[0]}
+    categoryLabel={categoryLabel}
+    featureLabel={featureLabel}
+    isCard={false}
+  />
+
+  <Card
+    sectionData={transportation.rentals[0]}
+    categoryLabel={categoryLabel}
+    featureLabel={featureLabel}
+    isCard={false}
+  />
+
+  <Card
+    sectionData={transportation.active[0]}
+    categoryLabel={categoryLabel}
+    featureLabel={featureLabel}
+    isCard={false}
+  />
+
+  <Container />
+</BaseLayout>
