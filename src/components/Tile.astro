@@ -13,7 +13,7 @@ const { title, description, image, alt } = Astro.props;
   />
 
   <div
-    class="absolute inset-x-4 bottom-4 flex translate-y-4 flex-col justify-end overflow-hidden rounded-sm border border-white/30 bg-white/10 p-5 opacity-0 backdrop-blur-md transition-all duration-500 group-hover:translate-y-0 group-hover:opacity-100"
+    class="absolute inset-x-2 bottom-2 flex translate-y-4 flex-col justify-end overflow-hidden rounded-sm border border-white/30 bg-white/10 p-2 opacity-0 backdrop-blur-md transition-all duration-500 group-hover:translate-y-0 group-hover:opacity-100"
   >
     <div
       class="pointer-events-none absolute inset-0 bg-linear-to-br from-white/20 to-transparent"
@@ -21,12 +21,12 @@ const { title, description, image, alt } = Astro.props;
     </div>
 
     <h3
-      class="font-display relative text-xl font-bold tracking-tight text-white drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,1)]"
+      class="font-display relative text-lg font-bold tracking-tight text-white drop-shadow-[0_5px_3px_rgba(0,0,0,1)]"
     >
       {title}
     </h3>
     <p
-      class="text-md relative mt-1 leading-relaxed font-medium text-white drop-shadow-[0_1.4px_1.4px_rgba(0,0,0,1)]"
+      class="text-sm relative mt-1 leading-relaxed font-medium text-white drop-shadow-[0_5px_3px_rgba(0,0,0,1)]"
     >
       {description}
     </p>
